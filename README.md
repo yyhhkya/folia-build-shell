@@ -53,7 +53,7 @@ Then
 然后黏贴以下代码回车即可开始编译，需要按照提示输入Github用户名和邮箱  
 ```
 cd /
-git clone https://github.com/chaichaisi/folia-build-shell.git
+git clone https://github.com/yyhhkya/folia-build-shell.git
 cd folia-build-shell
 chmod +x build.sh
 ./build.sh
